@@ -137,9 +137,5 @@ PORT=5000
 
 💡 Melhor opção: mantenha a pasta .env do jeito que está, com banco de dados na nuvem.
 
-
-### 1️⃣ Aplicar as migrations
-npx drizzle-kit push
-
 ### 4️⃣ Rodar o sistema
 npm run dev
