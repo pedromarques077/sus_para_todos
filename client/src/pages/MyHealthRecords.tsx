@@ -247,7 +247,7 @@ export default function MyHealthRecords() {
             Nenhum registro encontrado.
             <br />
             Clique em <span className="font-semibold">"Novo Registro"</span>{" "}
-            para adicionar seu primeiro histórico de saúde.
+            para adicionar seu primeiro histórico de saúde.....
           </p>
         ) : (
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
