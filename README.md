@@ -7,7 +7,7 @@
 
 **SUS Para Todos** é um sistema web que facilita o acesso a serviços de saúde pública, permitindo que cidadãos **agendem consultas e exames** em hospitais municipais, **mantenham um histórico pessoal de saúde** e **acompanhem notícias da área médica**.
 
-O projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** com foco em **aplicação prática e viabilidade real** para uso em redes municipais de saúde.
+O projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** com foco em **aplicação prática e viabilidade real** para uso em redes municipais de saúde...
 
 ---
 
